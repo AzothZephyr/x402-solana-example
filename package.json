@@ -6,8 +6,7 @@
     "dev": "tsx src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js",
-    "client": "tsx scripts/client.ts",
-    "client:cli": "tsx clients/cli/index.ts"
+    "client": "tsx clients/cli/index.ts"
   },
   "dependencies": {
     "@solana-program/system": "^0.7.0",

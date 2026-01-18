@@ -48,7 +48,7 @@ The server starts at `http://localhost:4021` with two endpoints:
 The client automatically wraps SOL to WSOL if needed.
 
 ```bash
-npm run client:cli
+npm run client
 ```
 
 Example output:
